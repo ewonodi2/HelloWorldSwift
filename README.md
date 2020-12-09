@@ -7,7 +7,7 @@ Intro level app, started learning iOS development
 
 ### App Walk-though
 <img src= "HelloworldSwiftgif.gif" width=200><br>
-![Alt Text](https://imgur.com/hvdSuLv)
+![Alt Text](https://imgur.com/hvdSuLv.gif)
 
 
 
