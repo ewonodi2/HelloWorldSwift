@@ -6,8 +6,7 @@ Intro level app, started learning iOS development
 `This is the first iOS app I made, with the simple functionalities of a beginner HelloWorld mobile app. It can change text based on entry, change background color, and change text color.
 
 ### App Walk-though
-<img src= "HelloworldSwiftgif.gif" width=200><br>
-![Alt Text](https://imgur.com/hvdSuLv.gif)
+<img src= "https://media.giphy.com/media/sfvaur4UikVL4D6vwg/giphy.gif" width=200><br>
 
 
 
